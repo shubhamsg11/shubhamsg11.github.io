@@ -230,20 +230,7 @@ a:hover{
 .s2 p{
   margin: 0;
 }
-#c1{
-  top: 265px;
-    left: 93px;
-}
 
-#c2{
-  top: 265px;
-  left: 143px; 
-  border-radius: 100px;
-}
-#c3{
-  top: 265px;
-    left: 193px;
-}
 .s3{
     background-image: url('comet.jpg');
     background-size: cover;
