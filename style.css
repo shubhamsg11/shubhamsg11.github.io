@@ -249,7 +249,7 @@ a:hover{
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
-    position: absolute;
+    position: relative;
     top: 1961px;
     width: 100%;
 }
